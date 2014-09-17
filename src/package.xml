@@ -93,10 +93,7 @@
         <members>TableGridState__c.All</members>
         <name>ListView</name>
     </types>
-    <types>
-        <members>U2G_TestUserProfile</members>
-        <name>Profile</name>
-    </types>
+    
     <types>
         <members>jquery_blockUI_js</members>
         <members>jquery_min_js</members>
